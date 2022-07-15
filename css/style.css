@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+}
+
+h1{
+  font-family: 'Titillium Web', sans-serif;
+  font-size:30px;
+  text-align: center;
+  margin: 10px 70px auto auto;
+  color: #655fe4;
+}
+.bottle{
+  margin:auto 550px auto 550px;
+}
+.p{
+}
+
+.p-img{
+  position: absolute;
+  border-radius:30px;
+  top:0px;
+}
+.in{
+  background-color:#655fe4; 
+  margin:auto;
+  width:820px;
+}
+h2{
+  text-align: center;
+}
+.sk-1{
+    border-radius:30px;
+    top:auto;
+}
